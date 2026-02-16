@@ -33,6 +33,3 @@ Users can create, edit, delete, search, and pin notes.
 - REST APIs
 
 ---
-
-## 📂 Project Structure
-
